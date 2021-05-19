@@ -34,22 +34,6 @@ export PATH="$PATH:$GEM_HOME/bin"
 
   - Hmm, it doesn't seem to like the presence of this README, guess I'll stick it in `/docs`
 
-## Goals
-
-- I'd like to be able to post my thoughts about various resources and concepts
-
-  - Some initial candidates I'd like to write about:
-
-    - <https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html>
-
-    - <https://fortelabs.co/blog/para/>
-
-    - <https://martinfowler.com/articles/on-pair-programming.html>
-
-- I'd like to improve the web experience of reading my documentation for other projects
-
-  - this seems to be possible by setting up Jekyll in a `/docs` folder in a project
-
 ```bash
 mkdir docs
 cd docs
@@ -71,3 +55,22 @@ jekyll new .
 - I can't seem to get it to build locally, so I'm gonna quit that for the night.
 
   - I have a good feeling it'll work on GitHub, though!
+
+- Hmm, not sure that it did...oh well!
+
+## Goals
+
+- I'd like to be able to post my thoughts about various resources and concepts
+
+  - Some initial candidates I'd like to write about:
+
+    - <https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html>
+
+    - <https://fortelabs.co/blog/para/>
+
+    - <https://martinfowler.com/articles/on-pair-programming.html>
+
+- I'd like to improve the web experience of reading my documentation for other projects
+
+  - this seems to be possible by setting up Jekyll in a `/docs` folder in a project
+
