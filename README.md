@@ -55,3 +55,19 @@ mkdir docs
 cd docs
 jekyll new .
 ```
+
+- I also made the necessary edits for github-pages
+
+- I'd like to test locally, so I'll follow [the instructions for that](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+
+- Apparently the version of Ruby I installed by default is too new (classic Arch!)
+
+- To deal with this, I'm installing RVM
+
+  - It is what it sounds like, a Ruby Version Manager analogous to NVM
+
+  - Installing it is gross and requires curling a script
+
+- I can't seem to get it to build locally, so I'm gonna quit that for the night.
+
+  - I have a good feeling it'll work on GitHub, though!
